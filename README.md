@@ -49,61 +49,61 @@ E. Test and Optimize:
     
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 A. Assess Prior Knowledge:
-  - Education Level: Tailor your language and explanations to match their educational background. Avoid jargon or technical terms that might confuse them.
+  - Education Level- Tailor your language and explanations to match their educational background. Avoid jargon or technical terms that might confuse them.
   - Industry Familiarity: Gauge their familiarity with industry-specific terms. If they’re newbies, skip the acronyms and dive into explanations.
 B. Listen and Observe:
-  - Pre-Event Surveys: If possible, gather information beforehand. Ask about their expertise or expectations.
-  - Body Language: During your presentation, watch for signs of confusion or engagement. Furrowed brows? Time to simplify.
+  - Pre-Event Surveys- If possible, gather information beforehand. Ask about their expertise or expectations.
+  - Body Language- During your presentation, watch for signs of confusion or engagement. Furrowed brows? Time to simplify.
 C. Start Simple, Build Gradually:
-  - Layered Approach: Begin with the basics. Imagine you’re teaching someone to bake cookies. Start with flour and butter before diving into molecular gastronomy.
-  - Progressive Complexity: As you proceed, add layers of complexity. Like building a Lego castle—one brick at a time.
+  - Layered Approach- Begin with the basics. Imagine you’re teaching someone to bake cookies. Start with flour and butter before diving into molecular gastronomy.
+  - Progressive Complexity- As you proceed, add layers of complexity. Like building a Lego castle—one brick at a time.
 D. Use Relatable Language:
-  - Analogies and Metaphors: Compare unfamiliar concepts to everyday things. It’s like explaining AI using a helpful robot sidekick.
-  - Storytelling: Weave your content into relatable narratives. People remember stories better than dry facts.
+  - Analogies and Metaphors- Compare unfamiliar concepts to everyday things. It’s like explaining AI using a helpful robot sidekick.
+  - Storytelling- Weave your content into relatable narratives. People remember stories better than dry facts.
 E. Avoid Jargon Traps:
-  - Technical Terms: Limit them. If you must use one, explain it immediately. For instance, “Machine learning (ML) is like teaching a computer to recognize cat videos.”
-  - Acronyms: Decode them. “API” might sound like gibberish, but “it’s like a waiter taking orders between two systems” makes sense.
+  - Technical Terms- Limit them. If you must use one, explain it immediately. For instance, “Machine learning (ML) is like teaching a computer to recognize cat videos.”
+  - Acronyms- Decode them. “API” might sound like gibberish, but “it’s like a waiter taking orders between two systems” makes sense.
 F. Visual Aids and Examples:
-  - Visuals: Charts, diagrams, and infographics are your allies. Show, don’t just tell.
-  - Real-Life Examples: Share case studies or success stories. Concrete examples stick better than abstract theories.
+  - Visuals- Charts, diagrams, and infographics are your allies. Show, don’t just tell.
+  - Real-Life Examples- Share case studies or success stories. Concrete examples stick better than abstract theories.
 G. Adapt on the Fly:
-  - Read the Room: Adjust as needed. If eyes glaze over, backtrack. If heads nod too vigorously, level up.
+  - Read the Room- Adjust as needed. If eyes glaze over, backtrack. If heads nod too vigorously, level up.
 
     
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 A. Proper Heading Structure:
-Why?: Well-organized headings provide a logical structure for content, especially for users relying on screen readers.
-How?: Use hierarchical HTML markup (e.g., <h2> for main headings, <h3> for subheadings). Clear headings help all users navigate and understand the content.
+- Well-organized headings provide a logical structure for content, especially for users relying on screen readers.
+- Use hierarchical HTML markup (e.g., <h2> for main headings, <h3> for subheadings). Clear headings help all users navigate and understand the content.
 B. Alt Text for Images:
-Why?: Alt text provides context for images, especially for visually impaired users.
-How?: Write concise, descriptive alt text that conveys the image’s content or function. Consider SEO keywords too.
+- Alt text provides context for images, especially for visually impaired users.
+- Write concise, descriptive alt text that conveys the image’s content or function. Consider SEO keywords too.
 C. Color Contrast and Accessibility:
-Why?: Sufficient contrast improves readability for users with visual impairments.
-How?: Ensure text/background color combinations meet accessibility standards. Test with tools like WCAG Color Contrast Analyzer.
+- Sufficient contrast improves readability for users with visual impairments.
+- Ensure text/background color combinations meet accessibility standards. Test with tools like WCAG Color Contrast Analyzer.
 D. Avoid Jargon and Technical Terms:
-Why?: Jargon can confuse and alienate non-technical users.
-How?: Use plain language. Explain complex terms or acronyms immediately after introducing them.
+- Jargon can confuse and alienate non-technical users.
+- Use plain language. Explain complex terms or acronyms immediately after introducing them.
 E. Use Readable Formats:
-Why?: Content format affects accessibility.
-How?: Incorporate bullet points, headings, and subheadings. Break up large chunks of text for easier navigation.
+- Content format affects accessibility.
+- Incorporate bullet points, headings, and subheadings. Break up large chunks of text for easier navigation.
 F. Inclusive Language:
-Why?: Language matters. Be respectful and considerate.
-How?: Avoid gender-specific terms, stereotypes, or exclusionary language.
+- Language matters. Be respectful and considerate.
+- Avoid gender-specific terms, stereotypes, or exclusionary language.
 G. Provide Transcripts for Multimedia Content:
-Why?: Audio and video content should be accessible to all.
-How?: Offer transcripts for podcasts, videos, and webinars. Screen readers can use them.
+- Audio and video content should be accessible to all.
+- Offer transcripts for podcasts, videos, and webinars. Screen readers can use them.
 H. Simplify Complex Concepts:
-Why?: Make content digestible.
-How?: Use analogies, metaphors, and relatable examples. Imagine explaining to a curious child.
+- Make content digestible.
+- Use analogies, metaphors, and relatable examples. Imagine explaining to a curious child.
 I. Test with Real Users:
-Why?: User testing reveals accessibility gaps.
-How?: Involve diverse users (including those with limited technical knowledge) in usability testing.
+- User testing reveals accessibility gaps.
+- Involve diverse users (including those with limited technical knowledge) in usability testing.
 J. Keyboard Accessibility:
-Why?: Some users rely solely on keyboards.
-How?: Ensure all interactive elements (buttons, forms) are keyboard-navigable.
+- Some users rely solely on keyboards.
+- Ensure all interactive elements (buttons, forms) are keyboard-navigable.
 K. Adaptive Strategies:
-Why?: People use various techniques to interact with the web.
-How?: Consider font size adjustments, mouse speed reduction, and other adaptive strategies.
+- People use various techniques to interact with the web.
+- Consider font size adjustments, mouse speed reduction, and other adaptive strategies.
 
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
